@@ -1,3 +1,6 @@
 *.docx
 *.odt
 *.h5
+.tmp.driveupload
+.tmp.**
+*.tmp
